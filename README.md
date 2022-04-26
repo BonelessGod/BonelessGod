@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BonelessGod
-- 👀 I’m interested in TTRPG, web-dev and skating
-- 🌱 I’m currently learning HTML, CSS and Python (and also SQL)
+- 👀 I’m interested in web developpement and skateboarding
+- 🌱 I’m currently learning SCSS, JScript and PHP
 
 
 <!---
